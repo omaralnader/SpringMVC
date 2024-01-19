@@ -1,0 +1,10 @@
+{
+  "realm": "individual",
+  "auth-server-url": "http://agonk1awvasp043.agr.gc.ca:8180/auth/",
+  "ssl-required": "external",
+  "resource": "psss-web",
+  "credentials": {
+    "secret": "ae6204ed-ba5d-4794-ab18-2fd07026e5cc"
+  },
+  "confidential-port": 0
+}

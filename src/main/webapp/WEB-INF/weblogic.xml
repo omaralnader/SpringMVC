@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<weblogic-web-app> 
+    <context-root>/app/cms/issp</context-root> 
+    <container-descriptor>
+        <show-archived-real-path-enabled>true</show-archived-real-path-enabled>
+    </container-descriptor>
+    
+	<container-descriptor>
+		<filter-dispatched-requests-enabled>true</filter-dispatched-requests-enabled>
+		<allow-all-roles>true</allow-all-roles>
+	</container-descriptor>
+	
+</weblogic-web-app>
